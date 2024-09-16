@@ -4,7 +4,9 @@
 
 I'm a web developer specializing in modern technologies such as **React**, **Next.js**, **Angular**, and **Node.js**. I have experience building scalable and performant applications with a strong focus on user experience.
 
-🔗 [Visit my personal website](https://gennaronucaro.dev/en)
+## 🌐 **My Website**
+
+# [GennaroNucaro.dev](https://gennaronucaro.dev)
 
 ## 💻 Technical Skills
 
