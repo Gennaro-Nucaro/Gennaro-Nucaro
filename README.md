@@ -6,7 +6,7 @@ I'm a web developer specializing in modern technologies such as **React**, **Nex
 
 ## 🌐 **My Website**
 
-# [GennaroNucaro.dev](https://gennaronucaro.dev/en)
+# [GennaroNucaro.dev](https://gennaronucaro.dev/)
 
 ## 💻 Technical Skills
 
